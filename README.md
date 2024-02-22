@@ -24,7 +24,7 @@ This project is a voice-controlled weather forecast assistant that utilizes Pyth
 ## Setup and Usage
 Ensure you have Python installed on your system and install the required libraries using pip:
 
-'''pip install requests pyttsx3 SpeechRecognition pygame'''
+```pip install requests pyttsx3 SpeechRecognition pygame```
 
 To run the assistant, execute the provided Python script. Ensure you have a working microphone and speakers/headphones for the best experience.
 
